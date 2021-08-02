@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{C784BDBF-5F9D-4858-14CC-882B0BB271FF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ConnectionManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerData.cs" Line="44" Column="1" />
+      <File FileName="Assets/Scripts/NetworkData.cs" Line="2" Column="34" />
+      <File FileName="Assets/Scripts/ConnectionManager.cs" Line="81" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="19" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63334e9b-cf4a-4ac5-a56d-0c9d0de76192" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
